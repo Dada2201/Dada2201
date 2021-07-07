@@ -31,7 +31,7 @@
 
 ## 📃 Resume 
 <details>
-  <summary>See my resume</summary>
+  <summary>Expand</summary>
 
 
 ## Education
@@ -89,9 +89,9 @@
 
 </details>
  
-## 🛠️ Personnal projects here
+## 🛠️ Personnal projects
 <details>
-  <summary>See my projects</summary>
+  <summary>Expand</summary>
   <h1>🚧 Working on it !</h1>
   <img src="https://img.ohmymag.com/s3/fromm/insolite/default_2019-10-08_cfb50d5a-bb57-4cbc-be5c-bd159070d3a7.jpeg" />
 </details>
