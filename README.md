@@ -37,7 +37,7 @@
 ## Education
 
 - 📖 **Application Developer and  Designer**\
-📆 2019 - Today\
+📆 2019 - 2021\
 📍 **ENI Ecole** - Rennes, France
 
 - 📖 **Professional degree in Software Testing and Quality Assurance**\
@@ -55,7 +55,7 @@
 <img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white" />
 
 
-- 👨‍💻 **Web Developer (Back-end and some Front task)**\
+- 👨‍💻 **Employed Software Developer FullStack**\
 📆 2020 - Today\
 📍 **Jouve** - Cesson-Sevigné, France
 
